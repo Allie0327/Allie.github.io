@@ -57,7 +57,7 @@ education:
   - area: undergraduate Atmospheric Science
     institution: Zhejiang University
     date_start: 2022-09-01
-    date_end: 2026-6-01
+    date_end: 2026-06-01
     summary: |
       GPA: 3.82/4
 
