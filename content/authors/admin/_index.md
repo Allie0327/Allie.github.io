@@ -71,7 +71,7 @@ education:
       - Atmospheric Physics and Chemistry(93)
       - Introduction to Artificial Intelligence(94)
 
-Topics I investigate（Details on the Projects page）:
+Topics I investigate (Details on the Projects page):
   - Machine Learning:
     - Active Learning for BDE Prediction to Enhance Generalization Ability
     - Machine Learning Foehn Wind Prediction Model
@@ -80,7 +80,7 @@ Topics I investigate（Details on the Projects page）:
     - Study on High Mountain Aerosol-Cloud Interactions and Radiation Forcing Estimation
     - Stereoscopic comprehensive detection and comparison experiment of typical megacities and high mountains
   - Atmospheric Radiation:
-    -Comparison of Numerical Methods for Electromagnetic Scattering Characteristics of Non-Spherical and Non-Uniform Particles
+    - Comparison of Numerical Methods for Electromagnetic Scattering Characteristics of Non-Spherical and Non-Uniform Particles
 
 
 # Skills
