@@ -115,21 +115,21 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: National Encouragement Scholarship
-    date: 
-      - 2023
-      - 2024
+    date:
+      - '2023'
+      - '2024'
     icon: coursera
 
   - title: Zhejiang University Undergraduate Scholarship
     date: 
-      - 2023
-      - 2024
+      - '2023'
+      - '2024'
     icon: edx
 
   - title: Nandu Scholarship
     date: 
-      - 2023
-      - 2024
+      - '2023'
+      - '2024'
     icon: datacamp
 
 ---
